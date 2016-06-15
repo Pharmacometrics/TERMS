@@ -1,0 +1,144 @@
+BODY {
+    color: #333333;
+    line-height: 150%;
+    font-size: bold-medium; 
+    font-family: "ＭＳ 明朝";
+}
+H1 {
+    color: #ffffff;   
+    background-color:teal;
+    width:100%;
+    padding: 5px 5px 5px 5px ;  
+}
+H2 {
+    width: 100%;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #9999ff;
+    padding: 3px 3px 3px 3px ;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+H3 {
+    width: 100%;
+    color: #ffffff;
+    font-weight: bold;
+    background-color: #cc99cc;
+    padding: 2px 2px 2px 2px ;
+}
+H4 {
+    width: 100%;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #33cc66;
+    padding: 3px 3px 3px 3px ;
+
+}
+H5 {
+    width: 100%;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #cc9933;
+    padding: 3px 0px 0px 3px ;
+}
+A:link {
+    color: #000099;
+}
+A:visited {
+    color: #6600ff;
+}
+A:hover {
+    color: #ff0000;
+    background-color: #ffccff;
+}
+
+P {    /*段落間が空く段落タグ*/
+}
+DIV {    /*段落間が空かない段落タグ*/
+}
+BLOCKQUOTE {    /*引用文*/
+    test-intent: 1em;
+    color: teal;
+    background-color:#ccffff;
+}
+
+DL {    /*用語集の範囲*/
+}
+DT {    /*用語集の見出し*/
+    font-weight: bold;
+    font-style: italic;
+    margin-top:3pt;
+}
+DD {    /*用語集の解説部*/
+    font-size: medium;
+}
+
+UL {
+}
+
+li {
+}
+
+SPAN {    /*好きな部分を指定する*/
+}
+TABLE { 
+    margin-top: 8pt;
+    margin-bottom: 8pt;
+    border-style: none;
+    border-collapse: separate;
+    border-spacing: 20px;
+    empty-cells: show;
+   
+}
+
+.n {    /*枠をなくしたい時*/
+    border-style: none;
+}
+
+TH {
+    background-color: silver;
+    border-style: none;
+    font-size: medium;
+    text-align: left;
+}
+TD {
+    font-size: medium;
+    border-style: none;
+}
+
+.s {    /*こっそりタグ*/
+    font-size:2pt;
+}
+
+PRE.c {
+    border: 1px solid gray;
+    padding: 5px;
+    white-space: pre;
+    width: 100%;
+    background-color: #fffff0;
+}
+DIV.c {
+    border: 1px solid gray;
+    padding: 5px;
+    width: 100%;
+    background-color: #fffff0;
+}
+EM {
+    color: #cc0000;
+    font-style: normal;
+}
+   border: 1px solid gray;
+    padding: 5px;
+    width: 100%;
+    background-color: #fffff0;
+}
+EM {
+    color: #cc0000;
+    font-style: normal;
+}
+
+
+EM {
+    color: #cc0000;
+    font-style: normal;
+}
